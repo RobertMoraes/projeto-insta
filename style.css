@@ -98,10 +98,15 @@ body {
     color: rgb(160, 160, 160);
 }
 
-.link-blue {
-    color: rgba(var(--d69,0,149,246),1);
+.link__blue {
     font-size: 12px;
     font-weight: bold;
+}
+
+.link__pagina{
+    color: #0095f6;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .get-the-app {
